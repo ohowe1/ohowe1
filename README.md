@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hello!
+
+- You can find my website [here](http://howe.ml).
+- You can see my GitHub [here](https://github.com/carelesshippo).
+- You can find my Discord at **Careless#1546**
 
 <!--
 **carelesshippo/carelesshippo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
